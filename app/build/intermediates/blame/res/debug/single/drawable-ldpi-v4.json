@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_default_normal.9.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\btn_default_normal.9.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\choice.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\choice.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\theme_change.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\theme_change.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\chosebg.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\chosebg.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\popup_bottom_dark.9.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\popup_bottom_dark.9.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\popup_top_dark.9.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\popup_top_dark.9.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\music.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\music.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\popup_full_dark.9.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\popup_full_dark.9.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\search.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\search.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\reload.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\reload.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\choice1.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-ldpi\\choice1.jpg"
+    }
+]

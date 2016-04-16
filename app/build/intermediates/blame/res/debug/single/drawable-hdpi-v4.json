@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_button.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_button.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_camera.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_camera.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_sleep.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_sleep.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_thought.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_thought.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_music.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_music.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_icn_plus.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_icn_plus.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_place.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_place.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_with.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_with.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_sun.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable-hdpi\\composer_sun.png"
+    }
+]

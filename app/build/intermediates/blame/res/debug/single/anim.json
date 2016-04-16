@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\video_choose.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\video_choose.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\welcome_text03.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\welcome_text03.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\s.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\s.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\a1.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\a1.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_out.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\rotate_out.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\s1.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\s1.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_in.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\rotate_in.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\a.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\a.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\welcome_text02.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\welcome_text02.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\welcome_text04.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\welcome_text04.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\music_choose.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\anim\\music_choose.xml"
+    }
+]

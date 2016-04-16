@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/Xinyue/all/activity/MusicActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/adapter/AlbumListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/adapter/ArtistListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/AppWidget.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/BaseActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/DBHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/DialogBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/ImageScale.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/InfoHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/MusicSet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/MusicUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/ScanSdReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/SetTimeDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/ShakeDetector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/music/dreamer/useful/VideoService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/video/dreamer/views/SoundView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/video/dreamer/views/VideoView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

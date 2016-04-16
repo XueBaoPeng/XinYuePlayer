@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicplayer.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\musicplayer.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appwidgetlayout.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\appwidgetlayout.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musiclist.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\musiclist.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artistslist.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\artistslist.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_list.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\video_list.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicplayer2.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\musicplayer2.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicplayer4.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\musicplayer4.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicplayer1.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\musicplayer1.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choseplayer.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\choseplayer.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\control_views.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\control_views.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\change.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotate.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\rotate.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datil.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\datil.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicplayer5.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\musicplayer5.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newsong.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\newsong.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choseplayer1.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\choseplayer1.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_button.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\bottom_button.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicplayer3.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\musicplayer3.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumslist.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\albumslist.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\layout\\about.xml"
+    }
+]

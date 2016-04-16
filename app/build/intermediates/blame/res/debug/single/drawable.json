@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loop_none.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\loop_none.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_img.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\seekbar_img.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_selecor.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\forward_selecor.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loop_one.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\loop_one.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\del.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\del.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back2.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\back2.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_exit.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\menu_exit.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_view.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\video_view.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stepbackward.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\stepbackward.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back3.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\back3.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_video.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\menu_video.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\random.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\random.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listbg.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\listbg.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loop_all.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\loop_all.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_line.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\sound_line.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_line1.bmp",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\sound_line1.bmp"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_book.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\help_book.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sounddisable.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\sounddisable.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\latest_selecor.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\latest_selecor.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back1.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stepforward.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\stepforward.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\random_select.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\random_select.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rewind_selecor.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\rewind_selecor.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_account.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\common_account.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_selecor.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\play_selecor.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_music.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\menu_music.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back0.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\back0.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.jpg",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_selecor.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\pause_selecor.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_more.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\menu_more.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_selecor.xml",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\next_selecor.xml"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\music_view.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\music_view.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundenable.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\soundenable.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\XinYuePlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eject.png",
+        "source": "E:\\OpenProject\\XinYuePlayer\\app\\src\\main\\res\\drawable\\eject.png"
+    }
+]
